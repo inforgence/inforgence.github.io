@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Your Repository Title</title>
+    <link>https://infoorgence.github.io/</link>
+    <description>Your repository description.</description>
+    <item>
+      <title>Latest Commit</title>
+      <link>https://github.com/infoorgence/infoorgence.github.io/commit/commit-hash</link>
+      <description>Commit description.</description>
+      <pubDate>Wed, 07 Jul 2023 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
