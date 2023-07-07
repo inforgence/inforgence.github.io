@@ -6,9 +6,10 @@
     <description>Your repository description.</description>
     <item>
       <title>Latest Commit</title>
-      <link>https://github.com/inforgence/inforgence.github.io/commit/commit-hash</link>
-      <description>Commit description.</description>
+      <link>https://github.com/inforgence/infoorgence.github.io/commit/commit-hash</link>
+      <guid isPermaLink="false">commit-hash</guid>
       <pubDate>Wed, 07 Jul 2023 00:00:00 GMT</pubDate>
+      <description>Commit description.</description>
     </item>
   </channel>
 </rss>
